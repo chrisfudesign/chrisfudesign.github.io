@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2022-01-01
+venue: "IMWUT"
+paperurl: "https://doi.org/10.1145/3534622"
+citation: "Yue Fu, Rebecca Michelson, Yifan Lin, Lynn K. Nguyen, Tala June Tayebi, and Alexis Hiniker. 2022. Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents' Ideas for Future Ones. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 6, 2, Article 52 (July 2022), 23 pages. https://doi.org/10.1145/3534622"
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://doi.org/10.1145/3534622)
