@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style= "font-size:24px; font-weight: bold;">
+<div style= "font-size:36px; font-weight: bold;">
 Welcome!</div>
 
 My name is <strong>Yue (Chris) Fu</strong>, and I am currently pursuing my Ph.D. at the University of Washington. My research interests lie at the intersection of digital wellbeing, health and social media, conversational agents, and AI-mediated communication, focusing on empathy and emotional wellbeing. I am honored to be working under the guidance of Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) at the University of Washington.
