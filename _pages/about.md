@@ -15,7 +15,8 @@ My name is <strong>Yue (Chris) Fu</strong>, and I am currently pursuing my Ph.D.
 
 <!-- Before embarking on this fulfilling research journey, I spent several years in the industry as a project manager and designer. My recent work revolves around understanding the impact of technology use on interpersonal relationships and exploring how AI can support and enhance communication and emotional wellbeing for individuals. Please feel free to explore my website to learn more about my research and ongoing projects. -->
 
-# Publication
+<div style= "font-size:24px; font-weight: bold;">
+Publication</div>
 
 <div style= "font-size:18px; font-weight: bold;">
 Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents
