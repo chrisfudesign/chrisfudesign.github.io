@@ -14,37 +14,37 @@ My name is <strong>Yue (Chris) Fu</strong>, and I am currently pursuing my Ph.D.
 
 # Publication
 
-<div style= "font-size:14px; font-weight: bold;">
+<div style= "font-size:18px; font-weight: bold;">
 Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents
 </div>
-<div style= "font-size:12px; font-weight: normal;">
+<div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Mingrui Zhang, Yifan Lin, Lynn K. Nguyen, Rebecca Michelson, Tala June Tayebi, Alexis Hiniker
 
-<div style= "font-size:12px; font-style: italic;font-weight: bold;">
+<div style= "font-size:16px; font-style: italic;font-weight: bold;">
 IDC, 2023 (to appear)
 </div>
 
 <br/><br/>
 
-<div style= "font-size:14px; font-weight: bold;">
+<div style= "font-size:18px; font-weight: bold;">
 “Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric 
 </div>
-<div style= "font-size:12px; font-weight: normal;">
+<div style= "font-size:16px; font-weight: normal;">
 Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, and Wanda Pratt
 
-<div style= "font-size:12px; font-style: italic;font-weight: bold;">
+<div style= "font-size:16px; font-style: italic;font-weight: bold;">
 CHI, 2023 (to appear)
 </div>
 
 <br/><br/>
 
-<div style= "font-size:14px; font-weight: bold;">
+<div style= "font-size:18px; font-weight: bold;">
 <a href="https://dl.acm.org/doi/pdf/10.1145/3534622">Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents' Ideas for Future Ones</a>
 </div>
-<div style= "font-size:12px; font-weight: normal;">
+<div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Rebecca Michelson, Yifan Lin, Lynn K. Nguyen, Tala June Tayebi, and Alexis Hiniker
 
-<div style= "font-size:12px; font-style: italic;font-weight: bold;">
+<div style= "font-size:16px; font-style: italic;font-weight: bold;">
 IMWUT, 2022
 </div>
 
