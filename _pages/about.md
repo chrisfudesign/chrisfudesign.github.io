@@ -29,9 +29,9 @@ IDC, 2023 (to appear)
 </div>
 
 <br/><br/>
-
+  
 <div style= "font-size:18px; font-weight: bold;">
-“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric 
+<a href=" https://dl.acm.org/doi/10.1145/3544548.3581559">“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric </a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, and Wanda Pratt
