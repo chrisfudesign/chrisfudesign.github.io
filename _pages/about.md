@@ -29,7 +29,7 @@ Publication</div>
 Under Review, 2023 
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- LLM Paper -->
 <div style= "font-size:18px; font-weight: bold;">
