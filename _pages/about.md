@@ -11,7 +11,7 @@ redirect_from:
 <div style= "font-size:36px; font-weight: bold;">
 Welcome!</div>
 
-My name is <strong>Chris (Yue) Fu</strong>, and I am currently pursuing my Ph.D. at the University of Washington. My research interests lie at the intersection of digital wellbeing, health and social media, conversational agents, and AI-mediated communication, focusing on empathy and emotional wellbeing. I am honored to be working under the guidance of Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) at the University of Washington.
+My name is <strong>Chris (Yue) Fu</strong>, and I am currently pursuing my Ph.D. at the University of Washington. My research interests lie at the intersection of technology support for wellbeing, AI-mediated communication, conversational agents, health and social media. I am honored to be working under the guidance of Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) at the University of Washington.
 
 <!-- Before embarking on this fulfilling research journey, I spent several years in the industry as a project manager and designer. My recent work revolves around understanding the impact of technology use on interpersonal relationships and exploring how AI can support and enhance communication and emotional wellbeing for individuals. Please feel free to explore my website to learn more about my research and ongoing projects. -->
 
@@ -80,6 +80,17 @@ CHI, 2023
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
 IMWUT, 2022
+</div>
+
+<!-- about me explanation -->
+<div style= "font-size:24px; font-weight: bold;">
+A Little Bit About Me</div>
+<div >
+
+I'm into competitive badminton and love going for long runs and bike rides. I also practice Yoga and am a YTT 200 teacher. In my downtime, I enjoy listening to classical music (big fan of Rachmaninoff) and playing the piano. Right now, I'm reading a non-fiction book by Gregory Bateson and a fiction by Sayaka Murata.
+
+I used to work in the industry back in the San Francisco Bay Area before moving up to Seattle. It took me a year to get used to the almost never-ending winter without much sun, but now I really like it here in the Pacific Northwest. Summers are awesome with loads of outdoor adventures, and in the winter, I try my hand at skiing, though I'm still falling quite a bit!
+
 </div>
 
 <!-- [Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents' Ideas for Future Ones](https://dl.acm.org/doi/pdf/10.1145/3534622)
