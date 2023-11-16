@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Chris Fu"
+title: "Chris (Yue) Fu"
 title_separator: "-"
 name: &name "Chris Fu"
 description: &description "personal research website"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Chris Fu"
+  name: "Chris (Yue) Fu"
   avatar: "Chris-profile.jpg"
   # bio: "Your biography for the left-hand sidebar"
   location: "Seattle, WA, USA"
