@@ -24,12 +24,24 @@ Publication</div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Mingrui Zhang, Yifan Lin, Lynn K. Nguyen, Rebecca Michelson, Tala June Tayebi, Alexis Hiniker
 
+<!-- <div style= "font-size:18px; font-weight: bold;">
+<a href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+<strong>Yue Fu</strong>, Mingrui Zhang, Yifan Lin, Lynn K. Nguyen, Rebecca Michelson, Tala June Tayebi, Alexis Hiniker -->
+
+<div style= "font-size:18px; font-weight: bold;">
+<a href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+<strong>Yue Fu</strong>, Mingrui Zhang, Yifan Lin, Lynn K. Nguyen, Rebecca Michelson, Tala June Tayebi, Alexis Hiniker
+
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
 IDC, 2023 
 </div>
 
 <br/><br/>
-  
+
 <div style= "font-size:18px; font-weight: bold;">
 <a href="https://dl.acm.org/doi/pdf/10.1145/3544548.3581559">“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric </a>
 </div>
