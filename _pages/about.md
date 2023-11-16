@@ -87,7 +87,7 @@ IMWUT, 2022
 <br/>
 
 <!-- about me explanation -->
-<div style= "font-size:24px; font-weight: bold;">
+<div style= "font-size:36px; font-weight: bold;">
 A Little Bit About Me</div>
 <div >
 
