@@ -11,25 +11,40 @@ redirect_from:
 <div style= "font-size:36px; font-weight: bold;">
 Welcome!</div>
 
-My name is <strong>Yue (Chris) Fu</strong>, and I am currently pursuing my Ph.D. at the University of Washington. My research interests lie at the intersection of digital wellbeing, health and social media, conversational agents, and AI-mediated communication, focusing on empathy and emotional wellbeing. I am honored to be working under the guidance of Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) at the University of Washington.
+My name is <strong>Chris (Yue) Fu</strong>, and I am currently pursuing my Ph.D. at the University of Washington. My research interests lie at the intersection of digital wellbeing, health and social media, conversational agents, and AI-mediated communication, focusing on empathy and emotional wellbeing. I am honored to be working under the guidance of Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) at the University of Washington.
 
 <!-- Before embarking on this fulfilling research journey, I spent several years in the industry as a project manager and designer. My recent work revolves around understanding the impact of technology use on interpersonal relationships and exploring how AI can support and enhance communication and emotional wellbeing for individuals. Please feel free to explore my website to learn more about my research and ongoing projects. -->
 
 <div style= "font-size:24px; font-weight: bold;">
 Publication</div>
 
+<!-- AIMC Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
+<a href="https://arxiv.org/pdf/2310.03976.pdf">From Text to Self: Users’ Perceptions of Potential of AI on Interpersonal Communication and Self</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
-<strong>Yue Fu</strong>, Mingrui Zhang, Yifan Lin, Lynn K. Nguyen, Rebecca Michelson, Tala June Tayebi, Alexis Hiniker
+<strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
 
-<!-- <div style= "font-size:18px; font-weight: bold;">
-<a href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
+<div style= "font-size:16px; font-style: italic;font-weight: bold;">
+Under Review, 2023 
+</div>
+
+<br/><br/>
+
+<!-- LLM Paper -->
+<div style= "font-size:18px; font-weight: bold;">
+<a href="https://arxiv.org/pdf/2310.03976.pdf">MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
-<strong>Yue Fu</strong>, Mingrui Zhang, Yifan Lin, Lynn K. Nguyen, Rebecca Michelson, Tala June Tayebi, Alexis Hiniker -->
+Ruolan Wu, Chun Yu, Xiaole Pan, Yujia Liu, Ningning Zhang, <strong>Yue Fu</strong>, Yuhan Wang, Zhi Zheng, Li Chen, Qiaolei Jiang, Xuhai Xu, Yuanchun Shi
 
+<div style= "font-size:16px; font-style: italic;font-weight: bold;">
+Under Review, 2023 
+</div>
+
+<br/><br/>
+
+<!-- Selftalk Paper -->
 <div style= "font-size:18px; font-weight: bold;">
 <a href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
 </div>
@@ -41,6 +56,8 @@ IDC, 2023
 </div>
 
 <br/><br/>
+
+<!-- Mental health and Tiktok Paper -->
 
 <div style= "font-size:18px; font-weight: bold;">
 <a href="https://dl.acm.org/doi/pdf/10.1145/3544548.3581559">“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric </a>
@@ -54,6 +71,7 @@ CHI, 2023
 
 <br/><br/>
 
+<!-- SEL Qualitative Paper -->
 <div style= "font-size:18px; font-weight: bold;">
 <a href="https://dl.acm.org/doi/pdf/10.1145/3534622">Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents' Ideas for Future Ones</a>
 </div>
