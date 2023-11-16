@@ -32,7 +32,7 @@ Under Review, 2023
 
 <!-- LLM Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://arxiv.org/abs/2309.16639">MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention</a>
+<a href="https://arxiv.org/pdf/2309.16639.pdf">MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Ruolan Wu, Chun Yu, Xiaole Pan, Yujia Liu, Ningning Zhang, <strong>Yue Fu</strong>, Yuhan Wang, Zhi Zheng, Li Chen, Qiaolei Jiang, Xuhai Xu, Yuanchun Shi
