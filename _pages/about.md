@@ -82,6 +82,8 @@ CHI, 2023
 IMWUT, 2022
 </div>
 
+<br/><br/>
+
 <!-- about me explanation -->
 <div style= "font-size:24px; font-weight: bold;">
 A Little Bit About Me</div>
