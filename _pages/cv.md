@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="files/Chris_Yue_Fu_CV_2024_main.pdf" style= "font-size:24px; font-weight: bold;">CV PDF</a>
+<a href="https://drive.google.com/file/d/1H-8HA2YM16LVZ7Sx0Ajb-fqVy8Nl_DGh/view?usp=drive_link" style= "font-size:24px; font-weight: bold;">CV PDF</a>
 
 <!-- {% include base_path %}
 
