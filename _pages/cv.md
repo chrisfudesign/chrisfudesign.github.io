@@ -1,13 +1,15 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://github.com/chrisfudesign/chrisfudesign.github.io/blob/0fb1d06caf7c64efc01cc5d7b3f3da6b0ca8cac5/files/Chris_Yue_Fu_CV_2024_main.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
-  # - /resume
+  - /resume
 ---
 
-{% include base_path %}
+<a href="files/Chris_Yue_Fu_CV_2024_main.pdf" style= "font-size:24px; font-weight: bold;">CV PDF</a>
+
+<!-- {% include base_path %}
 
 # Education
 
@@ -42,19 +44,19 @@ redirect_from:
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
