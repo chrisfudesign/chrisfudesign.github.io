@@ -4,7 +4,7 @@ title: "CV"
 permalink: https://github.com/chrisfudesign/chrisfudesign.github.io/blob/0fb1d06caf7c64efc01cc5d7b3f3da6b0ca8cac5/files/Chris_Yue_Fu_CV_2024_main.pdf
 author_profile: true
 redirect_from:
-  - /resume
+  # - /resume
 ---
 
 {% include base_path %}
