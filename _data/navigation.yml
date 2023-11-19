@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
 
   - title: "CV"
-    url: /cv/
+    url: https://github.com/chrisfudesign/chrisfudesign.github.io/blob/7d3f9fdd9f8206a637057830ed9886823f7a1693/files/Chris_Yue_Fu_CV_2024_main.pdf
 
   # - title: "Guide"
   #   url: /markdown/
