@@ -91,7 +91,7 @@ IMWUT, 2022
 A Little Bit About Me</div>
 <div >
 
-I used to work in the industry in the San Francisco Bay Area before moving up to Seattle. It took me a year to get used to the almost never-ending Seattle winter without much sun, but now I really like the Pacific Northwest. Summers are awesome with loads of outdoor adventures, and in the winter, I try my hand at skiing, though I'm still falling quite a bit!
+I used to work in the industry in the San Francisco Bay Area before moving up to Seattle in 2021. It took me a year to get used to the almost never-ending Seattle winter without much sun, but now I really like the Pacific Northwest. Summers are awesome with loads of outdoor adventures, and in the winter, I try my hand at skiing, though I'm still falling quite a bit!
 <br/>
 I'm into competitive badminton, and love going for long runs and bike rides. I also practice Yoga and am a YTT 200 teacher. In my downtime, I enjoy listening to classical music (big fan of Rachmaninoff) and playing the piano. I'm reading a non-fiction book by Gregory Bateson and a fiction by Sayaka Murata.
 
