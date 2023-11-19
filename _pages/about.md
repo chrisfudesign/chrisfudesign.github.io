@@ -11,7 +11,7 @@ redirect_from:
 <div style= "font-size:36px; font-weight: bold;">
 Welcome!</div>
 
-My name is <strong>Chris (Yue) Fu</strong>, and I am currently pursuing my Ph.D. at the University of Washington. My research interests lie at the intersection of technology support for wellbeing, AI-mediated communication, conversational agents, health and social media. I am honored to be working under the guidance of Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) at the University of Washington.
+My name is <strong>Chris (Yue) Fu</strong>, and I am currently pursuing my Ph.D. at the University of Washington. My research interests lie at the intersection of technological support for well-being, AI-mediated communication, conversational agents, health and social media. I am honored to be working under the guidance of Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) at the University of Washington.
 
 <!-- Before embarking on this fulfilling research journey, I spent several years in the industry as a project manager and designer. My recent work revolves around understanding the impact of technology use on interpersonal relationships and exploring how AI can support and enhance communication and emotional wellbeing for individuals. Please feel free to explore my website to learn more about my research and ongoing projects. -->
 <div style= "font-size:24px; font-weight: bold;">
@@ -62,10 +62,10 @@ IDC, 2023
 <!-- Mental health and Tiktok Paper -->
 
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://dl.acm.org/doi/pdf/10.1145/3544548.3581559">“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric </a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3544548.3581559">“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric Hospitalization</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
-Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, and Wanda Pratt
+Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, Wanda Pratt
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
 CHI, 2023 
@@ -78,7 +78,7 @@ CHI, 2023
 <a href="https://dl.acm.org/doi/pdf/10.1145/3534622">Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents' Ideas for Future Ones</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
-<strong>Yue Fu</strong>, Rebecca Michelson, Yifan Lin, Lynn K. Nguyen, Tala June Tayebi, and Alexis Hiniker
+<strong>Yue Fu</strong>, Rebecca Michelson, Yifan Lin, Lynn K. Nguyen, Tala June Tayebi, Alexis Hiniker
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
 IMWUT, 2022
@@ -91,9 +91,9 @@ IMWUT, 2022
 A Little Bit About Me</div>
 <div >
 
-I'm into competitive badminton, and love going for long runs and bike rides. I also practice Yoga and am a YTT 200 teacher. In my downtime, I enjoy listening to classical music (big fan of Rachmaninoff) and playing the piano. I'm reading a non-fiction book by Gregory Bateson and a fiction by Sayaka Murata. <br/>
-
 I used to work in the industry in the San Francisco Bay Area before moving up to Seattle. It took me a year to get used to the almost never-ending Seattle winter without much sun, but now I really like the Pacific Northwest. Summers are awesome with loads of outdoor adventures, and in the winter, I try my hand at skiing, though I'm still falling quite a bit!
+<br/>
+I'm into competitive badminton, and love going for long runs and bike rides. I also practice Yoga and am a YTT 200 teacher. In my downtime, I enjoy listening to classical music (big fan of Rachmaninoff) and playing the piano. I'm reading a non-fiction book by Gregory Bateson and a fiction by Sayaka Murata.
 
 </div>
 
