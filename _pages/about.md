@@ -20,9 +20,8 @@ My name is <strong>Chris (Yue) Fu</strong>, and I am currently pursuing my Ph.D.
 
 <br/>
 
-<div style= "font-size:16px; font-style: italic;font-weight: bold;">
-Under Review, 2023 
-</div>
+<div style= "font-size:24px; font-weight: bold;">
+Under Review</div>
 
 <!-- Breakup Paper -->
 <div style= "font-size:18px; font-weight: bold;">
@@ -31,6 +30,7 @@ Under Review, 2023
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
 
+<br/>
 <br/>
 
 <div style= "font-size:24px; font-weight: bold;">
