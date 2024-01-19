@@ -71,7 +71,7 @@ IDC, 2023
 Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, Wanda Pratt
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-CHI, 2023, Honorable Mention (5%)
+CHI, 2023, Honorable Mention <strong>(5%)</strong>
 </div>
 
 <br/>
