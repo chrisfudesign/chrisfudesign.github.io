@@ -20,6 +20,19 @@ My name is <strong>Chris (Yue) Fu</strong>, and I am currently pursuing my Ph.D.
 
 <br/>
 
+<div style= "font-size:16px; font-style: italic;font-weight: bold;">
+Under Review, 2023 
+</div>
+
+<!-- Breakup Paper -->
+<div style= "font-size:18px; font-weight: bold;">
+<a href="https://arxiv.org/abs/2401.09695">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+<strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
+
+<br/>
+
 <div style= "font-size:24px; font-weight: bold;">
 Publication</div>
 
