@@ -14,8 +14,14 @@ Welcome!</div>
 My name is <strong>Chris (Yue) Fu</strong>, and I am currently pursuing my Ph.D. at the University of Washington. My research interests lie at the intersection of technological support for well-being, AI-mediated communication, conversational agents, health and social media. I am honored to be working under the guidance of Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt).
 
 <!-- Before embarking on this fulfilling research journey, I spent several years in the industry as a project manager and designer. My recent work revolves around understanding the impact of technology use on interpersonal relationships and exploring how AI can support and enhance communication and emotional wellbeing for individuals. Please feel free to explore my website to learn more about my research and ongoing projects. -->
+
+
+
+
+<br/>
+
 <div style= "font-size:24px; font-weight: bold;">
-Under Review</div>
+Publication</div>
 
 <!-- AIMC Paper -->
 <div style= "font-size:18px; font-weight: bold;">
@@ -25,7 +31,7 @@ Under Review</div>
 <strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-Under Review, 2023 
+In Press, CHI, 2024 
 </div>
 
 <br/>
@@ -38,13 +44,8 @@ Under Review, 2023
 Ruolan Wu, Chun Yu, Xiaole Pan, Yujia Liu, Ningning Zhang, <strong>Yue Fu</strong>, Yuhan Wang, Zhi Zheng, Li Chen, Qiaolei Jiang, Xuhai Xu, Yuanchun Shi
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-Under Review, 2023 
+In Press, CHI, 2024  
 </div>
-
-<br/>
-
-<div style= "font-size:24px; font-weight: bold;">
-Publication</div>
 
 <!-- Selftalk Paper -->
 <div style= "font-size:18px; font-weight: bold;">
