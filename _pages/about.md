@@ -31,7 +31,7 @@ Publication</div>
 <strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-In Press, CHI, 2024 
+Accepted, CHI, 2024 
 </div>
 
 <br/>
@@ -44,7 +44,7 @@ In Press, CHI, 2024
 Ruolan Wu, Chun Yu, Xiaole Pan, Yujia Liu, Ningning Zhang, <strong>Yue Fu</strong>, Yuhan Wang, Zhi Zheng, Li Chen, Qiaolei Jiang, Xuhai Xu, Yuanchun Shi
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-In Press, CHI, 2024  
+Accepted, CHI, 2024  
 </div>
 
 <br/>
