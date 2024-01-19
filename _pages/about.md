@@ -47,6 +47,8 @@ Ruolan Wu, Chun Yu, Xiaole Pan, Yujia Liu, Ningning Zhang, <strong>Yue Fu</stron
 In Press, CHI, 2024  
 </div>
 
+<br/>
+
 <!-- Selftalk Paper -->
 <div style= "font-size:18px; font-weight: bold;">
 <a href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
