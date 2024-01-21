@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<h1><a href="https://drive.google.com/file/d/1H-8HA2YM16LVZ7Sx0Ajb-fqVy8Nl_DGh/view?usp=drive_link" style= "font-size:24px; font-weight: bold;">CV PDF</a></h1>
+<h1><a href="https://drive.google.com/file/d/1jmh1KTWhqKBPjGeHa784edV_BKBPhC3w/view?usp=drive_link" style= "font-size:24px; font-weight: bold;">CV PDF</a></h1>
 
 <!-- {% include base_path %}
 
