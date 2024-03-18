@@ -21,20 +21,21 @@ My name is <strong>Chris (Yue) Fu</strong>, and I am currently a third year Ph.D
 <br/>
 
 <div style= "font-size:24px; font-weight: bold;">
-Under Review</div>
+Publication</div>
 
-<!-- Breakup Paper -->
+<!-- Dissociation -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://arxiv.org/abs/2401.09695">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
+<a>Investigating Attention and Normative Dissociation in Children's Online Social Games
+</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
-<strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
+Amanda Baughan, <strong>Yue Fu</strong>, Emily Renee Izenman, Samuel Schwamm, Dania Alsabeh, Nicole M Powell, Elizabeth Hunt, Michael Rich, David Bickham, Jenny Radesky, Alexis Hiniker
+  
+<div style= "font-size:16px; font-style: italic;font-weight: bold;">
+Accepted, ACM Interaction Design and Children, 2024 
+</div>
 
 <br/>
-<br/>
-
-<div style= "font-size:24px; font-weight: bold;">
-Publication</div>
 
 <!-- AIMC Paper -->
 <div style= "font-size:18px; font-weight: bold;">
@@ -70,12 +71,12 @@ Accepted, CHI, 2024
 <strong>Yue Fu</strong>, Mingrui Zhang, Yifan Lin, Lynn K. Nguyen, Rebecca Michelson, Tala June Tayebi, Alexis Hiniker
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-IDC, 2023 
+ACM Interaction Design and Children, 2023 
 </div>
 
 <br/>
 
-<!-- Mental health and Tiktok Paper -->
+<!-- Mental Health and Tiktok Paper -->
 
 <div style= "font-size:18px; font-weight: bold;">
 <a href="https://dl.acm.org/doi/pdf/10.1145/3544548.3581559">“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric Hospitalization</a>
@@ -101,6 +102,18 @@ IMWUT, 2022
 </div>
 
 <br/>
+<br/>
+
+<div style= "font-size:24px; font-weight: bold;">
+Under Review</div>
+
+<!-- Breakup Paper -->
+<div style= "font-size:18px; font-weight: bold;">
+<a href="https://arxiv.org/abs/2401.09695">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+<strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
+
 
 <!-- about me explanation -->
 <div style= "font-size:36px; font-weight: bold;">
