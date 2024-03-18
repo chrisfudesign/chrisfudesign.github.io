@@ -23,6 +23,19 @@ My name is <strong>Chris (Yue) Fu</strong>, and I am currently a third year Ph.D
 <div style= "font-size:24px; font-weight: bold;">
 Publication</div>
 
+<!-- AIMC Paper -->
+<div style= "font-size:18px; font-weight: bold;">
+<a href="https://arxiv.org/pdf/2310.03976.pdf">From Text to Self: Users’ Perceptions of Potential of AI on Interpersonal Communication and Self</a>
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+<strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
+
+<div style= "font-size:16px; font-style: italic;font-weight: bold;">
+Accepted, CHI, 2024 
+</div>
+
+<br/>
+
 <!-- Dissociation -->
 <div style= "font-size:18px; font-weight: bold;">
 <a>Investigating Attention and Normative Dissociation in Children's Online Social Games
@@ -37,18 +50,6 @@ Accepted, ACM Interaction Design and Children, 2024
 
 <br/>
 
-<!-- AIMC Paper -->
-<div style= "font-size:18px; font-weight: bold;">
-<a href="https://arxiv.org/pdf/2310.03976.pdf">From Text to Self: Users’ Perceptions of Potential of AI on Interpersonal Communication and Self</a>
-</div>
-<div style= "font-size:16px; font-weight: normal;">
-<strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
-
-<div style= "font-size:16px; font-style: italic;font-weight: bold;">
-Accepted, CHI, 2024 
-</div>
-
-<br/>
 
 <!-- LLM Paper -->
 <div style= "font-size:18px; font-weight: bold;">
