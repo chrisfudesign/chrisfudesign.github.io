@@ -58,7 +58,7 @@ CHI, 2024
 Amanda Baughan, <strong>Yue Fu</strong>, Emily Renee Izenman, Samuel Schwamm, Dania Alsabeh, Nicole M Powell, Elizabeth Hunt, Michael Rich, David Bickham, Jenny Radesky, Alexis Hiniker
   
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-Accepted, ACM Interaction Design and Children (IDC), 2024 
+ACM Interaction Design and Children (IDC), 2024 
 </div>
 
 <br/>
