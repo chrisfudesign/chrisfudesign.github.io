@@ -31,8 +31,8 @@ Publication</div>
 <strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-CHI, 2024, <strong>🏆 Best Paper (1%)</strong>
-</div>
+CHI, 2024, 
+</div> <span><strong>🏆 Best Paper (1%)</strong></span>
 
 <br/>
 
@@ -89,7 +89,7 @@ Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, Wanda Pratt
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
 CHI, 2023, <strong>🏅 Honorable Mention (5%)</strong>
-</div>
+</div><span><strong>🏅 Honorable Mention (5%)</strong></span>
 
 <br/>
 
