@@ -31,7 +31,7 @@ Publication</div>
 <strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-CHI, 2024 
+CHI, 2024, <strong>🏆 Best Paper (1%)</strong>strong>
 </div>
 
 <br/>
@@ -88,7 +88,7 @@ ACM Interaction Design and Children (IDC), 2023
 Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, Wanda Pratt
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-CHI, 2023, <strong>Honorable Mention (5%)</strong>
+CHI, 2023, <strong>🏅 Honorable Mention (5%)</strong>
 </div>
 
 <br/>
