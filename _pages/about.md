@@ -62,9 +62,6 @@ ACM Interaction Design and Children (IDC), 2024
 
 <br/>
 
-
-
-
 <!-- Selftalk Paper -->
 <div style= "font-size:18px; font-weight: bold;">
 <a href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
@@ -86,11 +83,11 @@ ACM Interaction Design and Children (IDC), 2023
 <div style= "font-size:16px; font-weight: normal;">
 Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, Wanda Pratt
 
-<div style= "font-size:16px; font-style: italic;font-weight: bold;">
-CHI, 2023
-</div><span><strong>🏅 Honorable Mention (5%)</strong></span>
+<div style="font-size:16px; font-weight: bold;">
+<span style="font-style: italic;">CHI, 2023</span>, <strong>🏅 Honorable Mention (5%)<strong/>
 
-<br/>
+
+<br/><br/>
 
 <!-- SEL Qualitative Paper -->
 <div style= "font-size:18px; font-weight: bold;">
