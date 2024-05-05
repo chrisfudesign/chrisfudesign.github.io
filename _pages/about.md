@@ -29,10 +29,10 @@ Publication</div>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
-
-<div style= "font-size:16px;font-weight: bold;">
-<span font-style: italic>CHI, 2024</span>, <span><strong>🏆 Best Paper (1%)</strong></span>
-</div> 
+</div>
+<div style="font-size:16px; font-weight: bold;">
+<span style="font-style: italic;">CHI, 2024</span>, <span>🏆 Best Paper (1%)</span>
+</div>
 
 <br/>
 
