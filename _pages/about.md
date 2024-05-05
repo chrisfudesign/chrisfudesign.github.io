@@ -31,8 +31,8 @@ Publication</div>
 <strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
 
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
-CHI, 2024, 
-</div> <span><strong>🏆 Best Paper (1%)</strong></span>
+CHI, 2024, <span><strong>🏆 Best Paper (1%)</strong></span>
+</div> 
 
 <br/>
 
