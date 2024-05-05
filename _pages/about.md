@@ -34,7 +34,7 @@ Publication</div>
 CHI, 2024, 
 </div> <span><strong>🏆 Best Paper (1%)</strong></span>
 
-<br/><br/>
+<br/>
 
 <!-- LLM Paper -->
 <div style= "font-size:18px; font-weight: bold;">
