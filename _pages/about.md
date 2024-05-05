@@ -33,7 +33,7 @@ Publication</div>
 <div style="font-size:16px; font-weight: bold;">
 <span style="font-style: italic;">CHI, 2024</span>, <strong>🏆 Best Paper (1%)<strong/>
 
-<br/>
+<br/><br/>
 
 <!-- LLM Paper -->
 <div style= "font-size:18px; font-weight: bold;">
