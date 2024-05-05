@@ -30,13 +30,11 @@ Publication</div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
 
-<br/>
-
 <div style= "font-size:16px; font-style: italic;font-weight: bold;">
 CHI, 2024, 
 </div> <span><strong>🏆 Best Paper (1%)</strong></span>
 
-<br/>
+<br/><br/>
 
 <!-- LLM Paper -->
 <div style= "font-size:18px; font-weight: bold;">
