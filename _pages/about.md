@@ -11,7 +11,7 @@ redirect_from:
 <div style= "font-size:36px; font-weight: bold;">
 Welcome!</div>
 
-My name is <strong>Chris (Yue) Fu</strong>, and I am currently a third year Ph.D. at the University of Washington. My research interests lie at the intersection of technological support for well-being, AI-mediated communication, AI-supported relationships and emotions, conversational agents, and social media. I am honored to be working under the guidance of Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt).
+My name is <strong>Chris (Yue) Fu</strong>, and I am currently a third-year Ph.D. at the University of Washington. My research interests are AI for behavior change, AI-mediated communication, AI-supported relationships and emotions, and LLM-powered conversational agents. I work with Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) and Prof. [Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). 
 
 <!-- Before embarking on this fulfilling research journey, I spent several years in the industry as a project manager and designer. My recent work revolves around understanding the impact of technology use on interpersonal relationships and exploring how AI can support and enhance communication and emotional wellbeing for individuals. Please feel free to explore my website to learn more about my research and ongoing projects. -->
 
