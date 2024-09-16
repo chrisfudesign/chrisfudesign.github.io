@@ -112,7 +112,7 @@ IMWUT, 2022
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
-<br/>
+<br/><br/>
 <!-- End of the paper -->
   
 
@@ -124,7 +124,7 @@ Creativity in the Age of AI: Evaluating the Impact of Generative AI on Design Ou
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Bin Han, Tony Zhou, Marx Wang, Yixin Chen, Zelia Gomes Da Costa Lai,
 Jacob O.Wobbrock, Alexis Hiniker
-<br/>
+<br/><br/>
 <!-- End of the paper -->
 
 <!-- LLM Screenshot -->
@@ -133,7 +133,7 @@ Decoding Smartphone Use Regret: A Multimodal Analysis of Passively Collected Pho
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Longjie Guo, <strong>Yue Fu</strong>, Xiran Lin, Xuhai ”Orson” Xu, Yung-Ju Chang, Alexis Hiniker
-<br/>
+<br/><br/>
 <!-- End of the paper -->
 
 <!-- Avatar -->
@@ -144,7 +144,7 @@ Moving Toward Metaverse: Children’s Avatar Making in Online Social Games
 <strong>Yue Fu</strong>, Samuel Schwamm, Amanda Baughan, Nicole M Powell, Zoe Kronberg, Alicia
 Owens, Emily Emily Renee Izenman, Dania Alsabeh, Elizabeth Hunt, Michael Rich,
 David Bickham, Jenny Radesky, Alexis Hiniker
-<br/>
+<br/><br/>
 <!-- End of the paper -->
 
 <!-- Avatar -->
@@ -153,7 +153,7 @@ A Taxonomy of Extended-Use Designs on Very Large Online Platforms
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Yixin Chen, <strong>Yue Fu</strong>, Zeya Chen, Jenny Radesky, Alexis Hiniker
-<br/>
+<br/><br/>
 <!-- End of the paper -->
 
 
