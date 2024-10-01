@@ -136,6 +136,15 @@ Longjie Guo, <strong>Yue Fu</strong>, Xiran Lin, Xuhai ”Orson” Xu, Yung-Ju C
 <br/><br/>
 <!-- End of the paper -->
 
+<!-- Clinic + NLP -->
+<div style= "font-size:18px; font-weight: bold;">
+Exploring Interdisciplinary Team Collaboration in Clinical NLP Projects Through the Lens of Activity Theory
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+Bingsheng Yao, Yao Du, <strong>Yue Fu</strong>, Dr. Xuhai "Orson" Xu, Yanjun Gao, Hong Yu, Dakuo Wang
+<br/><br/>
+<!-- End of the paper -->
+
 <!-- Avatar -->
 <div style= "font-size:18px; font-weight: bold;">
 Moving Toward Metaverse: Children’s Avatar Making in Online Social Games
