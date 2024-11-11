@@ -50,7 +50,7 @@ CHI, 2024
 
 <!-- Dissociation -->
 <div style= "font-size:18px; font-weight: bold;">
-<a>Investigating Attention and Normative Dissociation in Children's Online Social Games
+<a href="https://dl.acm.org/doi/pdf/10.1145/3628516.3655808">Investigating Attention and Normative Dissociation in Children's Online Social Games
 </a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
@@ -119,7 +119,7 @@ IMWUT, 2022
 
 <!-- AI + creativity -->
 <div style= "font-size:18px; font-weight: bold;">
-Creativity in the Age of AI: Evaluating the Impact of Generative AI on Design Outputs and Designers’ Creative Thinking
+<a href="https://arxiv.org/abs/2411.00168">Creativity in the Age of AI: Evaluating the Impact of Generative AI on Design Outputs and Designers’ Creative Thinking</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Bin Han, Tony Zhou, Marx Wang, Yixin Chen, Zelia Gomes Da Costa Lai,
@@ -129,7 +129,7 @@ Jacob O.Wobbrock, Alexis Hiniker
 
 <!-- LLM Screenshot -->
 <div style= "font-size:18px; font-weight: bold;">
-Decoding Smartphone Use Regret: A Multimodal Analysis of Passively Collected Phone Use Screenshots
+<a href="https://arxiv.org/abs/2410.11354">Decoding Smartphone Use Regret: A Multimodal Analysis of Passively Collected Phone Use Screenshots</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Longjie Guo, <strong>Yue Fu</strong>, Xiran Lin, Xuhai ”Orson” Xu, Yung-Ju Chang, Alexis Hiniker
