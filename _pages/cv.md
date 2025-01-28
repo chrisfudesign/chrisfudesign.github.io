@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-<h1><a href="https://drive.google.com/file/d/1rYM2tEW477B_hUllaB8baRrmko3huXGB/view?usp=sharing" style= "font-size:24px; font-weight: bold;">CV PDF (Updated Nov. 2024)</a></h1>
+<h1><a href="https://drive.google.com/file/d/18gUKhaouNQie0snikv-JiyNz4sCtIfpO/view?usp=sharing" style= "font-size:24px; font-weight: bold;">CV PDF (Updated Jan. 2025)</a></h1>
 
 <!-- {% include base_path %}
 
