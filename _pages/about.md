@@ -50,7 +50,7 @@ David Bickham, Jenny Radesky, Alexis Hiniker
 
 <!-- AIMC Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a color:#00008B" href="https://arxiv.org/pdf/2310.03976.pdf">From Text to Self: Users’ Perceptions of Potential of AI on Interpersonal Communication and Self</a>
+<a style=" color:#00008B" href="https://arxiv.org/pdf/2310.03976.pdf">From Text to Self: Users’ Perceptions of Potential of AI on Interpersonal Communication and Self</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
@@ -65,7 +65,7 @@ David Bickham, Jenny Radesky, Alexis Hiniker
 
 <!-- LLM Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a color:#00008B" href="https://arxiv.org/pdf/2309.16639.pdf">MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention</a>
+<a style=" color:#00008B" href="https://arxiv.org/pdf/2309.16639.pdf">MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Ruolan Wu, Chun Yu, Xiaole Pan, Yujia Liu, Ningning Zhang, <strong>Yue Fu</strong>, Yuhan Wang, Zhi Zheng, Li Chen, Qiaolei Jiang, Xuhai Xu, Yuanchun Shi
@@ -78,7 +78,7 @@ CHI, 2024
 
 <!-- Dissociation -->
 <div style= "font-size:18px; font-weight: bold;">
-<a color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3628516.3655808">Investigating Attention and Normative Dissociation in Children's Online Social Games
+<a style=" color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3628516.3655808">Investigating Attention and Normative Dissociation in Children's Online Social Games
 </a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
@@ -92,7 +92,7 @@ ACM Interaction Design and Children (IDC), 2024
 
 <!-- Selftalk Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
+<a style=" color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Mingrui Zhang, Yifan Lin, Lynn K. Nguyen, Rebecca Michelson, Tala June Tayebi, Alexis Hiniker
@@ -106,7 +106,7 @@ ACM Interaction Design and Children (IDC), 2023
 <!-- Mental Health and Tiktok Paper -->
 
 <div style= "font-size:18px; font-weight: bold;">
-<a color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3544548.3581559">“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric Hospitalization</a>
+<a style=" color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3544548.3581559">“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric Hospitalization</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, Wanda Pratt
@@ -119,7 +119,7 @@ Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, Wanda Pratt
 
 <!-- SEL Qualitative Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3534622">Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents' Ideas for Future Ones</a>
+<a style=" color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3534622">Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents' Ideas for Future Ones</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Rebecca Michelson, Yifan Lin, Lynn K. Nguyen, Tala June Tayebi, Alexis Hiniker
@@ -135,7 +135,7 @@ IMWUT, 2022
 
 <!-- Music -->
 <div style= "font-size:18px; font-weight: bold;">
-<a color:#00008B" href="https://arxiv.org/abs/2501.15276">Exploring the Collaborative Co-Creation Process with AI: A Case Study in Novice Music Production</a>
+<a style=" color:#00008B" href="https://arxiv.org/abs/2501.15276">Exploring the Collaborative Co-Creation Process with AI: A Case Study in Novice Music Production</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Michele Newman, Lewis Going, Qiuzi Feng, Jin Ha Lee
@@ -145,7 +145,7 @@ IMWUT, 2022
 
 <!-- Breakup Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a color:#00008B" href="https://arxiv.org/abs/2401.09695">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
+<a style=" color:#00008B" href="https://arxiv.org/abs/2401.09695">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
@@ -156,7 +156,7 @@ IMWUT, 2022
 
 <!-- AI + creativity -->
 <div style= "font-size:18px; font-weight: bold;">
-<a color:#00008B" href="https://arxiv.org/abs/2411.00168">Creativity in the Age of AI: Evaluating the Impact of Generative AI on Design Outputs and Designers’ Creative Thinking</a>
+<a style=" color:#00008B" href="https://arxiv.org/abs/2411.00168">Creativity in the Age of AI: Evaluating the Impact of Generative AI on Design Outputs and Designers’ Creative Thinking</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Bin Han, Tony Zhou, Marx Wang, Yixin Chen, Zelia Gomes Da Costa Lai,
@@ -165,7 +165,7 @@ Jacob O.Wobbrock, Alexis Hiniker
   
 <!-- Extended Use -->
 <div style= "font-size:18px; font-weight: bold;">
-<a color:#00008B" href="https://arxiv.org/abs/2411.12083">A Taxonomy of Extended-Use Designs on Very Large Online Platforms </a>
+<a style=" color:#00008B" href="https://arxiv.org/abs/2411.12083">A Taxonomy of Extended-Use Designs on Very Large Online Platforms </a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Yixin Chen, <strong>Yue Fu</strong>, Zeya Chen, Jenny Radesky, Alexis Hiniker
@@ -183,7 +183,7 @@ A Little Bit About Me</div>
 
 I used to work in the industry in the San Francisco Bay Area before moving up to Seattle in 2021. It took me a year to get used to the almost never-ending Seattle winter without much sun, but now I really like the Pacific Northwest. Summers are awesome with loads of outdoor adventures, and in the winter, I try my hand at skiing, though I'm still falling quite a bit!
 <br/>
-I'm into competitive badminton, and love going for long runs and bike rides. I also practice Yoga and am a YTT 200 teacher. In my downtime, I enjoy listening to classical music (big fan of Rachmaninoff) and playing the piano. I'm reading a non-fiction book, Origins of Genius.
+I'm into competitive badminton, and love going for long runs and bike rides. I also practice Yoga and am a YTT 200 teacher. In my downtime, I enjoy listening to classical music (a big fan of Rachmaninoff) and playing the piano. I'm reading a non-fiction book, Origins of Genius, and a fiction by Yukio Mishima, The Temple of the Golden Pavilion.
 
 </div>
 
