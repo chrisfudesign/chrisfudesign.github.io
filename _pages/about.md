@@ -28,7 +28,6 @@ Publication</div>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Longjie Guo, <strong>Yue Fu</strong>, Xiran Lin, Xuhai ”Orson” Xu, Yung-Ju Chang, Alexis Hiniker
-<br/><br/>
 </div>
 <div style="font-size:16px; font-weight: bold;">
 <span style="font-style: italic;">CHI, 2025, to appear</span>
@@ -51,7 +50,7 @@ David Bickham, Jenny Radesky, Alexis Hiniker
 
 <!-- AIMC Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://arxiv.org/pdf/2310.03976.pdf">From Text to Self: Users’ Perceptions of Potential of AI on Interpersonal Communication and Self</a>
+<a color:#00008B" href="https://arxiv.org/pdf/2310.03976.pdf">From Text to Self: Users’ Perceptions of Potential of AI on Interpersonal Communication and Self</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Sami Foell, Xuhai Xu, Alexis Hiniker
@@ -66,7 +65,7 @@ David Bickham, Jenny Radesky, Alexis Hiniker
 
 <!-- LLM Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://arxiv.org/pdf/2309.16639.pdf">MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention</a>
+<a color:#00008B" href="https://arxiv.org/pdf/2309.16639.pdf">MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Ruolan Wu, Chun Yu, Xiaole Pan, Yujia Liu, Ningning Zhang, <strong>Yue Fu</strong>, Yuhan Wang, Zhi Zheng, Li Chen, Qiaolei Jiang, Xuhai Xu, Yuanchun Shi
@@ -79,7 +78,7 @@ CHI, 2024
 
 <!-- Dissociation -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://dl.acm.org/doi/pdf/10.1145/3628516.3655808">Investigating Attention and Normative Dissociation in Children's Online Social Games
+<a color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3628516.3655808">Investigating Attention and Normative Dissociation in Children's Online Social Games
 </a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
@@ -93,7 +92,7 @@ ACM Interaction Design and Children (IDC), 2024
 
 <!-- Selftalk Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
+<a color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3585088.3589376">Self-Talk with Superhero Zip: Supporting Children’s Socioemotional Learning with Conversational Agents</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Mingrui Zhang, Yifan Lin, Lynn K. Nguyen, Rebecca Michelson, Tala June Tayebi, Alexis Hiniker
@@ -107,7 +106,7 @@ ACM Interaction Design and Children (IDC), 2023
 <!-- Mental Health and Tiktok Paper -->
 
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://dl.acm.org/doi/pdf/10.1145/3544548.3581559">“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric Hospitalization</a>
+<a color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3544548.3581559">“Laughing so I Don’t Cry”: How TikTok Users Employ Humor and Compassion to Connect Around Psychiatric Hospitalization</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, Wanda Pratt
@@ -120,7 +119,7 @@ Anastasia Schaadhardt, <strong>Yue Fu</strong>, Cory Gennari Pratt, Wanda Pratt
 
 <!-- SEL Qualitative Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://dl.acm.org/doi/pdf/10.1145/3534622">Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents' Ideas for Future Ones</a>
+<a color:#00008B" href="https://dl.acm.org/doi/pdf/10.1145/3534622">Social Emotional Learning with Conversational Agents: Reviewing Current Designs and Probing Parents' Ideas for Future Ones</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Rebecca Michelson, Yifan Lin, Lynn K. Nguyen, Tala June Tayebi, Alexis Hiniker
@@ -134,9 +133,9 @@ IMWUT, 2022
 
 <div style= "font-size:24px; font-weight: bold;"> In Submission</div> 
 
-<!-- Extended Use -->
+<!-- Music -->
 <div style= "font-size:18px; font-weight: bold;">
-Exploring the Collaborative Co-Creation Process with AI: A Case Study in Novice Music Production
+<a color:#00008B" href="https://arxiv.org/abs/2501.15276">Exploring the Collaborative Co-Creation Process with AI: A Case Study in Novice Music Production</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Michele Newman, Lewis Going, Qiuzi Feng, Jin Ha Lee
@@ -146,7 +145,7 @@ Exploring the Collaborative Co-Creation Process with AI: A Case Study in Novice 
 
 <!-- Breakup Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://arxiv.org/abs/2401.09695">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
+<a color:#00008B" href="https://arxiv.org/abs/2401.09695">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
@@ -157,7 +156,7 @@ Exploring the Collaborative Co-Creation Process with AI: A Case Study in Novice 
 
 <!-- AI + creativity -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://arxiv.org/abs/2411.00168">Creativity in the Age of AI: Evaluating the Impact of Generative AI on Design Outputs and Designers’ Creative Thinking</a>
+<a color:#00008B" href="https://arxiv.org/abs/2411.00168">Creativity in the Age of AI: Evaluating the Impact of Generative AI on Design Outputs and Designers’ Creative Thinking</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Bin Han, Tony Zhou, Marx Wang, Yixin Chen, Zelia Gomes Da Costa Lai,
@@ -166,7 +165,7 @@ Jacob O.Wobbrock, Alexis Hiniker
   
 <!-- Extended Use -->
 <div style= "font-size:18px; font-weight: bold;">
-A Taxonomy of Extended-Use Designs on Very Large Online Platforms
+<a color:#00008B" href="https://arxiv.org/abs/2411.12083">A Taxonomy of Extended-Use Designs on Very Large Online Platforms </a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Yixin Chen, <strong>Yue Fu</strong>, Zeya Chen, Jenny Radesky, Alexis Hiniker
