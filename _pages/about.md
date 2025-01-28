@@ -17,7 +17,6 @@ My name is <strong>Chris (Yue) Fu</strong>, and I am currently a third-year Ph.D
 
 
 
-
 <br/>
 
 <div style= "font-size:24px; font-weight: bold;">
@@ -25,7 +24,7 @@ Publication</div>
 
 <!-- LLM Screenshot -->
 <div style= "font-size:18px; font-weight: bold;">
-<a href="https://arxiv.org/abs/2410.11354">Decoding Smartphone Use Regret: A Multimodal Analysis of Passively Collected Phone Use Screenshots</a>
+<a style=" color:#00008B" href="https://arxiv.org/abs/2410.11354">Decoding Smartphone Use Regret: A Multimodal Analysis of Passively Collected Phone Use Screenshots</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 Longjie Guo, <strong>Yue Fu</strong>, Xiran Lin, Xuhai ”Orson” Xu, Yung-Ju Chang, Alexis Hiniker
@@ -164,22 +163,7 @@ Exploring the Collaborative Co-Creation Process with AI: A Case Study in Novice 
 <strong>Yue Fu</strong>, Bin Han, Tony Zhou, Marx Wang, Yixin Chen, Zelia Gomes Da Costa Lai,
 Jacob O.Wobbrock, Alexis Hiniker
 <br/><br/>
-
-
-
-
-<! -- 
-<!-- Clinic + NLP -->
-<div style= "font-size:18px; font-weight: bold;">
-Exploring Interdisciplinary Team Collaboration in Clinical NLP Projects Through the Lens of Activity Theory
-</div>
-<div style= "font-size:16px; font-weight: normal;">
-Bingsheng Yao, Yao Du, <strong>Yue Fu</strong>, Dr. Xuhai "Orson" Xu, Yanjun Gao, Hong Yu, Dakuo Wang
-<br/><br/>
- -->
-
-
-
+  
 <!-- Extended Use -->
 <div style= "font-size:18px; font-weight: bold;">
 A Taxonomy of Extended-Use Designs on Very Large Online Platforms
@@ -189,9 +173,9 @@ Yixin Chen, <strong>Yue Fu</strong>, Zeya Chen, Jenny Radesky, Alexis Hiniker
 <br/><br/>
 <!-- End of the paper -->
 
-
-
 <br/>
+
+
 
 <!-- about me explanation -->
 <div style= "font-size:36px; font-weight: bold;">
