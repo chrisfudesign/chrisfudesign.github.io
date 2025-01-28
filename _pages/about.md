@@ -11,7 +11,7 @@ redirect_from:
 <div style= "font-size:36px; font-weight: bold;">
 Welcome!</div>
 
-My name is <strong>Chris (Yue) Fu</strong>, and I am currently a third-year Ph.D. at the University of Washington. My research interests are AI for behavior change, AI-mediated communication, AI-supported relationships and emotions, and LLM-powered conversational agents. I work with Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) and Prof. [Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). 
+My name is <strong>Chris (Yue) Fu</strong>, and I am currently a third-year Ph.D. at the University of Washington. My research interests are co-creation with AI. Key areas of domains include AI-mediated communication, AI-supported design, music production, and sense-making. I am also interested in AI-supported relationships and how it transforms people’s interpersonal relations with others. I work with Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) and Prof. [Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). 
 
 <!-- Before embarking on this fulfilling research journey, I spent several years in the industry as a project manager and designer. My recent work revolves around understanding the impact of technology use on interpersonal relationships and exploring how AI can support and enhance communication and emotional wellbeing for individuals. Please feel free to explore my website to learn more about my research and ongoing projects. -->
 
@@ -23,6 +23,33 @@ My name is <strong>Chris (Yue) Fu</strong>, and I am currently a third-year Ph.D
 <div style= "font-size:24px; font-weight: bold;">
 Publication</div>
 
+<!-- LLM Screenshot -->
+<div style= "font-size:18px; font-weight: bold;">
+<a href="https://arxiv.org/abs/2410.11354">Decoding Smartphone Use Regret: A Multimodal Analysis of Passively Collected Phone Use Screenshots</a>
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+Longjie Guo, <strong>Yue Fu</strong>, Xiran Lin, Xuhai ”Orson” Xu, Yung-Ju Chang, Alexis Hiniker
+<br/><br/>
+</div>
+<div style="font-size:16px; font-weight: bold;">
+<span style="font-style: italic;">CHI, 2025, to appear</span>
+<br/><br/>
+
+<!-- Avatar -->
+<div style= "font-size:18px; font-weight: bold;">
+Understanding Children's Avatar Making in Social Online Games
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+<strong>Yue Fu</strong>, Samuel Schwamm, Amanda Baughan, Nicole M Powell, Zoe Kronberg, Alicia
+Owens, Emily Emily Renee Izenman, Dania Alsabeh, Elizabeth Hunt, Michael Rich,
+David Bickham, Jenny Radesky, Alexis Hiniker
+</div>
+<div style="font-size:16px; font-weight: bold;">
+<span style="font-style: italic;">CHI, 2025, to appear</span>
+<br/><br/>
+
+
+
 <!-- AIMC Paper -->
 <div style= "font-size:18px; font-weight: bold;">
 <a href="https://arxiv.org/pdf/2310.03976.pdf">From Text to Self: Users’ Perceptions of Potential of AI on Interpersonal Communication and Self</a>
@@ -32,6 +59,9 @@ Publication</div>
 </div>
 <div style="font-size:16px; font-weight: bold;">
 <span style="font-style: italic;">CHI, 2024</span>, <strong>🏆 Best Paper (1%)<strong/>
+
+
+
 
 <br/><br/>
 
@@ -105,6 +135,15 @@ IMWUT, 2022
 
 <div style= "font-size:24px; font-weight: bold;"> In Submission</div> 
 
+<!-- Extended Use -->
+<div style= "font-size:18px; font-weight: bold;">
+Exploring the Collaborative Co-Creation Process with AI: A Case Study in Novice Music Production
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+<strong>Yue Fu</strong>, Michele Newman, Lewis Going, Qiuzi Feng, Jin Ha Lee
+<br/><br/>
+<!-- End of the paper -->
+
 
 <!-- Breakup Paper -->
 <div style= "font-size:18px; font-weight: bold;">
@@ -113,7 +152,7 @@ IMWUT, 2022
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
 <br/><br/>
-<!-- End of the paper -->
+
   
 
 
@@ -125,17 +164,11 @@ IMWUT, 2022
 <strong>Yue Fu</strong>, Bin Han, Tony Zhou, Marx Wang, Yixin Chen, Zelia Gomes Da Costa Lai,
 Jacob O.Wobbrock, Alexis Hiniker
 <br/><br/>
-<!-- End of the paper -->
 
-<!-- LLM Screenshot -->
-<div style= "font-size:18px; font-weight: bold;">
-<a href="https://arxiv.org/abs/2410.11354">Decoding Smartphone Use Regret: A Multimodal Analysis of Passively Collected Phone Use Screenshots</a>
-</div>
-<div style= "font-size:16px; font-weight: normal;">
-Longjie Guo, <strong>Yue Fu</strong>, Xiran Lin, Xuhai ”Orson” Xu, Yung-Ju Chang, Alexis Hiniker
-<br/><br/>
-<!-- End of the paper -->
 
+
+
+<! -- 
 <!-- Clinic + NLP -->
 <div style= "font-size:18px; font-weight: bold;">
 Exploring Interdisciplinary Team Collaboration in Clinical NLP Projects Through the Lens of Activity Theory
@@ -143,20 +176,11 @@ Exploring Interdisciplinary Team Collaboration in Clinical NLP Projects Through 
 <div style= "font-size:16px; font-weight: normal;">
 Bingsheng Yao, Yao Du, <strong>Yue Fu</strong>, Dr. Xuhai "Orson" Xu, Yanjun Gao, Hong Yu, Dakuo Wang
 <br/><br/>
-<!-- End of the paper -->
+ -->
 
-<!-- Avatar -->
-<div style= "font-size:18px; font-weight: bold;">
-Moving Toward Metaverse: Children’s Avatar Making in Online Social Games
-</div>
-<div style= "font-size:16px; font-weight: normal;">
-<strong>Yue Fu</strong>, Samuel Schwamm, Amanda Baughan, Nicole M Powell, Zoe Kronberg, Alicia
-Owens, Emily Emily Renee Izenman, Dania Alsabeh, Elizabeth Hunt, Michael Rich,
-David Bickham, Jenny Radesky, Alexis Hiniker
-<br/><br/>
-<!-- End of the paper -->
 
-<!-- Avatar -->
+
+<!-- Extended Use -->
 <div style= "font-size:18px; font-weight: bold;">
 A Taxonomy of Extended-Use Designs on Very Large Online Platforms
 </div>
