@@ -50,7 +50,7 @@ David Bickham, Jenny Radesky, Alexis Hiniker
 
 <!-- Breakup Paper -->
 <div style= "font-size:18px; font-weight: bold;">
-<a style=" color:#00008B" href="https://arxiv.org/abs/2401.09695">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
+<a style=" color:#00008B" href="https://arxiv.org/pdf/2502.18705">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
