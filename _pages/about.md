@@ -37,7 +37,7 @@ Longjie Guo, <strong>Yue Fu</strong>, Xiran Lin, Xuhai ”Orson” Xu, Yung-Ju C
 
 <!-- Avatar -->
 <div style= "font-size:18px; font-weight: bold;">
-<a style=" color:#00008B" href="https://arxiv.org/pdf/2502.18705">Understanding Children's Avatar Making in Social Online Games<>/a
+<a style=" color:#00008B" href="https://arxiv.org/pdf/2502.18705">Understanding Children's Avatar Making in Social Online Games</a>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Samuel Schwamm, Amanda Baughan, Nicole M Powell, Zoe Kronberg, Alicia
