@@ -33,9 +33,11 @@ Longjie Guo, <strong>Yue Fu</strong>, Xiran Lin, Xuhai ”Orson” Xu, Yung-Ju C
 <span style="font-style: italic;">CHI, 2025, to appear</span>
 <br/><br/>
 
+
+
 <!-- Avatar -->
 <div style= "font-size:18px; font-weight: bold;">
-Understanding Children's Avatar Making in Social Online Games
+<a style=" color:#00008B" href="https://arxiv.org/pdf/2502.18705">Understanding Children's Avatar Making in Social Online Games<>/a
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Samuel Schwamm, Amanda Baughan, Nicole M Powell, Zoe Kronberg, Alicia
@@ -46,7 +48,15 @@ David Bickham, Jenny Radesky, Alexis Hiniker
 <span style="font-style: italic;">CHI, 2025, to appear</span>
 <br/><br/>
 
-
+<!-- Breakup Paper -->
+<div style= "font-size:18px; font-weight: bold;">
+<a style=" color:#00008B" href="https://arxiv.org/abs/2401.09695">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+<strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
+<div style="font-size:16px; font-weight: bold;">
+<span style="font-style: italic;">CSCW, 2025, Accepted</span>
+<br/><br/>
 
 <!-- AIMC Paper -->
 <div style= "font-size:18px; font-weight: bold;">
@@ -141,15 +151,6 @@ IMWUT, 2022
 <strong>Yue Fu</strong>, Michele Newman, Lewis Going, Qiuzi Feng, Jin Ha Lee
 <br/><br/>
 <!-- End of the paper -->
-
-
-<!-- Breakup Paper -->
-<div style= "font-size:18px; font-weight: bold;">
-<a style=" color:#00008B" href="https://arxiv.org/abs/2401.09695">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
-</div>
-<div style= "font-size:16px; font-weight: normal;">
-<strong>Yue Fu</strong>, Yixin Chen, Zelia Gomes Da Costa Lai, Alexis Hiniker
-<br/><br/>
 
   
 
