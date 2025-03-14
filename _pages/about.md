@@ -48,6 +48,17 @@ David Bickham, Jenny Radesky, Alexis Hiniker
 <span style="font-style: italic;">CHI, 2025, to appear</span>
 <br/><br/>
 
+<!-- Students' Reading -->
+<div style= "font-size:18px; font-weight: bold;">
+<a style=" color:#00008B" href="https://arxiv.org/pdf/2502.18705">Supporting Students' Reading and Cognition with AI</a>
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+<strong>Yue Fu</strong>, Alexis Hiniker
+</div>
+<div style="font-size:16px; font-weight: bold;">
+<span style="font-style: italic;">CHI Workshop on Tools for Thought, 2025, to appear</span>
+<br/><br/>
+
 <!-- Breakup Paper -->
 <div style= "font-size:18px; font-weight: bold;">
 <a style=" color:#00008B" href="https://arxiv.org/pdf/2502.18705">Should ChatGPT Write Your Breakup Text? Exploring the Role of AI in Relationship Dissolution</a>
