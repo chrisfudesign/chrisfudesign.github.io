@@ -28,9 +28,11 @@ Publication</div>
 </div>
 <div style= "font-size:16px; font-weight: normal;">
 <strong>Yue Fu</strong>, Michele Newman, Lewis Going, Qiuzi Feng, Jin Ha Lee
+</div>
+<div style="font-size:16px; font-weight: bold;">
 <span style="font-style: italic;">DIS, 2025, to appear</span>
-
 <br/><br/>
+
 
 
 
