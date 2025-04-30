@@ -22,6 +22,18 @@ My name is <strong>Chris (Yue) Fu</strong>, and I am currently a third-year Ph.D
 <div style= "font-size:24px; font-weight: bold;">
 Publication</div>
 
+<!-- Music -->
+<div style= "font-size:18px; font-weight: bold;">
+<a style=" color:#00008B" href="https://arxiv.org/abs/2501.15276">Exploring the Collaborative Co-Creation Process with AI: A Case Study in Novice Music Production</a>
+</div>
+<div style= "font-size:16px; font-weight: normal;">
+<strong>Yue Fu</strong>, Michele Newman, Lewis Going, Qiuzi Feng, Jin Ha Lee
+<span style="font-style: italic;">DIS, 2025, to appear</span>
+
+<br/><br/>
+
+
+
 <!-- LLM Screenshot -->
 <div style= "font-size:18px; font-weight: bold;">
 <a style=" color:#00008B" href="https://arxiv.org/abs/2410.11354">Decoding Smartphone Use Regret: A Multimodal Analysis of Passively Collected Phone Use Screenshots</a>
@@ -30,7 +42,7 @@ Publication</div>
 Longjie Guo, <strong>Yue Fu</strong>, Xiran Lin, Xuhai ”Orson” Xu, Yung-Ju Chang, Alexis Hiniker
 </div>
 <div style="font-size:16px; font-weight: bold;">
-<span style="font-style: italic;">CHI, 2025, to appear</span>
+<span style="font-style: italic;">CHI, 2025</span>
 <br/><br/>
 
 
@@ -45,7 +57,7 @@ Owens, Emily Emily Renee Izenman, Dania Alsabeh, Elizabeth Hunt, Michael Rich,
 David Bickham, Jenny Radesky, Alexis Hiniker
 </div>
 <div style="font-size:16px; font-weight: bold;">
-<span style="font-style: italic;">CHI, 2025, to appear</span>
+<span style="font-style: italic;">CHI, 2025</span>
 <br/><br/>
 
 <!-- Students' Reading -->
@@ -56,7 +68,7 @@ David Bickham, Jenny Radesky, Alexis Hiniker
 <strong>Yue Fu</strong>, Alexis Hiniker
 </div>
 <div style="font-size:16px; font-weight: bold;">
-<span style="font-style: italic;">CHI Workshop on Tools for Thought, 2025, to appear</span>
+<span style="font-style: italic;">CHI Workshop on Tools for Thought, 2025</span>
 <br/><br/>
 
 <!-- Breakup Paper -->
@@ -153,16 +165,6 @@ IMWUT, 2022
 
 
 <div style= "font-size:24px; font-weight: bold;"> In Submission</div> 
-
-<!-- Music -->
-<div style= "font-size:18px; font-weight: bold;">
-<a style=" color:#00008B" href="https://arxiv.org/abs/2501.15276">Exploring the Collaborative Co-Creation Process with AI: A Case Study in Novice Music Production</a>
-</div>
-<div style= "font-size:16px; font-weight: normal;">
-<strong>Yue Fu</strong>, Michele Newman, Lewis Going, Qiuzi Feng, Jin Ha Lee
-<br/><br/>
-<!-- End of the paper -->
-
   
 
 
