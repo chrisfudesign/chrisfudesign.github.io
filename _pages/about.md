@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<div style= "font-size:36px; font-weight: bold;">
-Welcome!</div>
+<div style="font-size:36px; font-weight: bold;">
+  Please visit my <a href="https://chrisyuefu.com" style="text-decoration: none; color: blue;">new website here</a>! This old website retires in August, 2025.
+</div>
+
+<!-- <div style="font-size:36px; font-weight: bold;">Welcome!</div> -->
+
 
 My name is <strong>Chris (Yue) Fu</strong>, and I am currently a third-year Ph.D. at the University of Washington. My research interests are co-creation with AI. Key areas of domains include AI-mediated communication, AI-supported design, music production, and sense-making. I am also interested in AI-supported relationships and how it transforms people’s interpersonal relations with others. I work with Prof. [Alexis Hiniker](https://www.alexishiniker.com/) in the [User Empowerment Lab](https://www.userempowerment.org/). In addition, I have had the opportunity to collaborate with Prof. [Wanda Pratt](https://ischool.uw.edu/people/faculty/profile/wpratt) and Prof. [Jacob O. Wobbrock](https://faculty.washington.edu/wobbrock/). 
 
