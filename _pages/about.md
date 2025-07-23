@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<div style="font-size:36px; font-weight: bold;">
+<div style="font-size:24px; font-weight: bold;">
   Please visit my <a href="https://chrisyuefu.com" style="text-decoration: none; color: blue;">new website here</a>! This old website retires in August, 2025.
 </div>
+<br/>
+<br/>
 
 <!-- <div style="font-size:36px; font-weight: bold;">Welcome!</div> -->
 
